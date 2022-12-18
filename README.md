@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on fully autonomous armed drone<br>🌱 I’m currently learning Pyton<br>💬 Ask me about C, C++, Electronics and Comm.
+🔭 I’m currently working on fully autonomous armed drone<br>🌱 I’m currently learning image processing with Pyton<br>💬 Ask me about C, C++, Electronics and Comm.
 
 
 ## 🌐 Socials:
